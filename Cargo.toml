@@ -1,6 +1,6 @@
 [package]
 name = "repeat_finite"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Soveu <marx.tomasz@gmail.com>"]
 edition = "2018"
 license = "MIT"
@@ -12,5 +12,5 @@ description = "It is like repeat(), but, you know, finite"
 
 [features]
 default = []
-nightly = []
+trusted_len= []
 
